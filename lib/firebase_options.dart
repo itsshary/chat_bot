@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB6ujQ6mFVUp2aueKlpzxqI3m_-cfv1imY',
-    appId: '1:91138493391:android:f5ed16aa1dae758d39a0ba',
-    messagingSenderId: '91138493391',
-    projectId: 'chatbot-f3502',
-    storageBucket: 'chatbot-f3502.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 }

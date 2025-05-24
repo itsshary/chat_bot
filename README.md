@@ -1,16 +1,19 @@
 # chat_bot
 
-A new Flutter project.
+chat bot app will help you to find the solution of your problem
 
-## Getting Started
+# I am using Gemini api for showing response
 
-This project is a starting point for a Flutter application.
+# ---------Features-----------------
 
-A few resources to get you started if this is your first Flutter project:
+# 1) Text To Speech
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 2) Speech To Text
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 3) Firebase Used to saved History
+
+# 4) Theme Will be changed dark to light
+
+# 5) You can Copy the text
+
+# 5) Riverpod as a state-managment
